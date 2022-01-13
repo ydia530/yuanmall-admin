@@ -90,7 +90,7 @@
         menus: [],
         expandedKey: [],
         defaultProps: {
-          children: "childrenCat",
+          children: "children",
           label: "name"
         }
       };
