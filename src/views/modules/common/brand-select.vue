@@ -4,7 +4,7 @@
       <el-option
         v-for="item in brands"
         :key="item.brandId"
-        :label="item.name"
+        :label="item.brandName"
         :value="item.brandId"
       ></el-option>
     </el-select>
